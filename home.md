@@ -2,7 +2,7 @@
 title: Freeskates Wiki
 description: 
 published: true
-date: 2026-07-18T13:47:51.887Z
+date: 2026-07-18T13:53:06.842Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-17T20:27:30.245Z
@@ -17,3 +17,5 @@ Explore the Wiki
 [Trick Database](/tricks) – From foundational JMK tutorials to deep-lore legacy trick families.
 
 [Kentei-riders](/tricks/Kentei-riders) – The official Japanese ranking system to gamify your practice and level up your riding.
+
+

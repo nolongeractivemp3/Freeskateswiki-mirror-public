@@ -2,7 +2,7 @@
 title: Jmk Ride
 description: 
 published: true
-date: 2026-07-19T13:15:25.104Z
+date: 2026-07-19T13:17:04.721Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-17T22:26:50.904Z
@@ -16,7 +16,7 @@ JMKRIDE is the central pillar and definitive backbone of the modern freeskating 
 
 ### Product Line
 
-**JMK [/brands/jmk/hardware/Freeskates]:** The brand's signature flagship model, known for its durable metal frame and highly customizable color decks and grip tape.
+**JMK [Freeskates](/brands/jmk/hardware/Freeskates):** The brand's signature flagship model, known for its durable metal frame and highly customizable color decks and grip tape.
 
 **JMK Tuxedo:** A budget-conscious, beginner-aimed entry model designed to lower the financial barrier to entering the sport.
 

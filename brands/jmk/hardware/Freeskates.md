@@ -2,14 +2,14 @@
 title: JMK Freeskates
 description: 
 published: true
-date: 2026-07-21T01:10:08.127Z
+date: 2026-07-21T01:12:59.801Z
 tags: hardware
 editor: markdown
 dateCreated: 2026-07-18T19:22:46.517Z
 ---
 
 # JMK Freeskate Hardware
-<div class="infobox" style="scale=20%">
+<div class="infobox">
  
  ![](/jmk/freeskate-variant-cottoncandy.png)
 </div>

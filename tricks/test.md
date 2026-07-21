@@ -2,7 +2,7 @@
 title: Stomp
 description: 
 published: true
-date: 2026-07-21T00:55:12.288Z
+date: 2026-07-21T00:55:33.310Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T00:46:40.692Z
@@ -12,7 +12,6 @@ dateCreated: 2026-07-21T00:46:40.692Z
 
 <div class="infobox">
  
-| Property | Value |
 |----------|-------|
 | Foot | Backfoot / Frontfoot |
 | Stance | Regular / Switch |

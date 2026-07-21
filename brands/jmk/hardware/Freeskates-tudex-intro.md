@@ -2,7 +2,7 @@
 title: Tudex Intro Freeskates
 description: 
 published: false
-date: 2026-07-21T01:16:21.636Z
+date: 2026-07-21T23:30:17.094Z
 tags: hardware, needs work
 editor: markdown
 dateCreated: 2026-07-20T20:24:06.721Z
@@ -20,7 +20,7 @@ A cheaper beginner version of the [Classic JMK skates](/brands/jmk/hardware/Tude
 
 ## Part overview
 
-The Tudex Intro use Wooden decks but other than that they use simelare parts then there premium counterparts
+The Tuxedo Intro utilizes wooden decks rather than the cast aluminum decks found on the Classic model. Aside from the deck material, it uses hardware components similar to its premium counterparts, maintaining general cross-compatibility across the JMK ecosystem.
 
 ## Additional info
 

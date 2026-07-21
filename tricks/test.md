@@ -2,7 +2,7 @@
 title: Stomp
 description: 
 published: true
-date: 2026-07-21T00:57:28.403Z
+date: 2026-07-21T00:57:53.607Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T00:46:40.692Z
@@ -24,7 +24,7 @@ While there is no exact time and date where  the stomp was invented it is defin
 The stomp can be done with both the back and front foot as well as regular and switch
 <br><br><br>
 
-
+ 
 
 ## Media
 

@@ -2,20 +2,22 @@
 title: Kickflip
 description: 
 published: true
-date: 2026-07-21T00:59:44.272Z
+date: 2026-07-21T01:00:27.043Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T15:28:51.449Z
 ---
 
 # Kickflip
+<div class="infobox">
 
-|     |
+|Variation|
 | --- |
 | Backfoot frontfoot |
 | [regular-switch](/basics/Stances) |
 | Kickflip Switch-it |
 | [dual kickflip](https://www.youtube.com/shorts/jf0BZWj4JUg) |
+</div>
 
 The Kickflip is a trick where you push down and shortly after back from one skate so it does one rotation before you stomp it back down How to Kickflip on Freeskates
 

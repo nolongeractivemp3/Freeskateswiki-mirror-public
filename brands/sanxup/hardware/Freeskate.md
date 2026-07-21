@@ -2,7 +2,7 @@
 title: Sanxup
 description: 
 published: true
-date: 2026-07-21T01:17:39.796Z
+date: 2026-07-21T01:18:00.365Z
 tags: hardware
 editor: markdown
 dateCreated: 2026-07-19T13:29:37.743Z
@@ -21,8 +21,12 @@ dateCreated: 2026-07-19T13:29:37.743Z
 Compared to JMK models, one of Sanxup's main advantages is the use of standard bearings, which can be replaced without requiring proprietary parts.
 
 ## Part overview
+<div class="infobox">
 
 ![](/sanxup/freeskate-variant-blak-sizes.jpg)
+  
+</div>
+
 
 The following compatibility with  JMK has been confirmed:
 

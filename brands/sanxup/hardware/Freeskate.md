@@ -2,15 +2,19 @@
 title: Sanxup
 description: 
 published: true
-date: 2026-07-21T01:16:53.556Z
+date: 2026-07-21T01:17:39.796Z
 tags: hardware
 editor: markdown
 dateCreated: 2026-07-19T13:29:37.743Z
 ---
 
-# Sanxup
+<div class="infobox">
 
 ![](/sanxup/freeskates-variant-black-bgremoved.png)
+  
+</div>
+
+# Sanxup
 
 **Sanxup** is a Chinese manufacturer of freeskates that primarily offers lower-cost alternatives to JMK products. Their skates feature aluminum decks and use standard skate bearings, making replacement bearings inexpensive and easy to source.
 

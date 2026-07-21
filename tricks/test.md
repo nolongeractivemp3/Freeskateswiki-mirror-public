@@ -2,7 +2,7 @@
 title: Stomp
 description: 
 published: true
-date: 2026-07-21T00:56:22.509Z
+date: 2026-07-21T00:57:28.403Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-21T00:46:40.692Z
@@ -12,11 +12,11 @@ dateCreated: 2026-07-21T00:46:40.692Z
 
 <div class="infobox">
  
-| Property | Value |
-|----------|-------|
-| Foot | Backfoot / Frontfoot |
-| Stance | Regular / Switch |
-| Variants | [Flipstomp](/tricks/flipstomp) |
+| Variations
+|----------|
+| Backfoot / Frontfoot |
+| Regular / Switch |
+| [Flipstomp](/tricks/flipstomp) |
 </div>
 
 While there is no exact time and date where  the stomp was invented it is definetly one of the oldest discovered tricks on freeskates. It is done by pushing of one one leg and throwing your skate down under your seccond leg. 

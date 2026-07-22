@@ -2,14 +2,14 @@
 title: Tricks
 description: 
 published: true
-date: 2026-07-22T23:23:52.882Z
+date: 2026-07-22T23:25:04.372Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-18T13:21:20.455Z
 ---
 
 
-<div class="infobox">
+<div class="infobox" style="width: 440px;">
   
 |     Trick| Tutorial link    |
 | --- | --- |

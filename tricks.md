@@ -2,13 +2,16 @@
 title: Tricks
 description: 
 published: true
-date: 2026-07-22T23:22:36.060Z
+date: 2026-07-22T23:23:52.882Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-18T13:21:20.455Z
 ---
 
-|     |     |
+
+<div class="infobox">
+  
+|     Trick| Tutorial link    |
 | --- | --- |
 | [Stomp](/tricks/stomp) | [How to Stomp on Freeskates! (beginner learns)](https://youtu.be/If9FfTP7EvA?si=89mfxyTAkC5UjPx2) |
 | Banana | [How to BANANA on Freeskates!](https://youtu.be/gUkGa6rq2Rg?si=_8nz9QuwjXYjudna) |
@@ -16,6 +19,7 @@ dateCreated: 2026-07-18T13:21:20.455Z
 | Boneless | [How to Boneless on Freeskates](https://youtu.be/PTn4wSHrQYg?si=t9U8VOBvo7i1UMKq) |
 | 180 | [How to 180 on Freeskates!](https://youtu.be/d8FVS_gjuzU?si=CqTgp5l_uSrdzH5A) |
 
+  </div>
 Due to the open-ended nature of the sport, there is a near-infinite variety of freeskate tricks. However, the modern progression layout is largely defined by the tutorial library on the [JMK Ride YouTube channel](https://www.youtube.com/@jmkride) (see the sidebar table for a foundational list).
 
 Alongside these mainstream staples, underground creators like [Uesan](https://www.youtube.com/@TakayukiDAYO) and various legacy channels have spent over a decade innovating entirely unique, independent trick families—such as the [Bite Cycle Flip](https://www.youtube.com/watch?v=KLza2OrNhck) or [Elevator 180° Down](https://www.youtube.com/watch?v=vkzqHp1IGp4&pp=0gcJCZkLAYcqIYzv)—that remain largely undiscovered by the wider modern scene.

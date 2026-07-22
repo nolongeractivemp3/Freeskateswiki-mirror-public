@@ -2,7 +2,7 @@
 title: Tricks
 description: 
 published: true
-date: 2026-07-22T23:25:04.372Z
+date: 2026-07-22T23:55:33.356Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-18T13:21:20.455Z
@@ -18,6 +18,7 @@ dateCreated: 2026-07-18T13:21:20.455Z
 | [Kickflip](/tricks/kickflip) | [How to Kickflip on Freeskates](https://youtu.be/LGQO7UzpZrI?si=rTpXhkOwHJbcuzh5) |
 | Boneless | [How to Boneless on Freeskates](https://youtu.be/PTn4wSHrQYg?si=t9U8VOBvo7i1UMKq) |
 | 180 | [How to 180 on Freeskates!](https://youtu.be/d8FVS_gjuzU?si=CqTgp5l_uSrdzH5A) |
+| Tokyo | [How to Tokyo on Freeskates](https://youtu.be/Gz6LZINsTws?si=5UjaHv1vwgnn6kFk) |
 
   </div>
 Due to the open-ended nature of the sport, there is a near-infinite variety of freeskate tricks. However, the modern progression layout is largely defined by the tutorial library on the [JMK Ride YouTube channel](https://www.youtube.com/@jmkride) (see the sidebar table for a foundational list).

@@ -2,7 +2,7 @@
 title: Freeskates Wiki
 description: 
 published: true
-date: 2026-07-23T14:42:07.380Z
+date: 2026-07-23T14:48:32.562Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-17T20:27:30.245Z
@@ -18,4 +18,8 @@ Unlike traditional skates, freeskates consist of two completely independent, una
 
 [Kentei-riders](/tricks/Kentei-riders) – The official Japanese ranking system to gamify your practice and level up your riding.
 
+## Learning to ride
+there are 2 widely accepted methods to learning to ride 
+- The most common method is being thought by jmk on there YouTube channel where you start by rolling down a hill to get some balance before learning to pump 
+- a second more uncommon method many had great success with it's being thought here https://youtu.be/__ShooHcXbI?is=c-0m9XqT30l78B3w where you start learning balance and pumping separately on each leg and then just combine that
 

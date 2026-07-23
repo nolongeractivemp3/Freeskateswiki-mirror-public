@@ -2,8 +2,8 @@
 title: Skate template
 description: 
 published: false
-date: 2026-07-23T20:29:04.068Z
-tags: hardware, template
+date: 2026-07-23T21:03:39.755Z
+tags: hardware, template, meta
 editor: markdown
 dateCreated: 2026-07-19T20:08:47.251Z
 ---

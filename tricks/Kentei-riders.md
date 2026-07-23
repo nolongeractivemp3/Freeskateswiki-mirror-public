@@ -2,7 +2,7 @@
 title: Kentei Riders
 description: 
 published: true
-date: 2026-07-23T19:15:28.317Z
+date: 2026-07-23T19:15:34.824Z
 tags: needs work
 editor: markdown
 dateCreated: 2026-07-18T13:43:24.808Z

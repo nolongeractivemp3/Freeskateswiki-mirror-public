@@ -2,7 +2,7 @@
 title: Tricks
 description: 
 published: true
-date: 2026-07-22T23:55:33.356Z
+date: 2026-07-22T23:55:40.049Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-18T13:21:20.455Z

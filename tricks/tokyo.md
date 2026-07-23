@@ -2,7 +2,7 @@
 title: Tokyo
 description: 
 published: true
-date: 2026-07-23T20:31:40.543Z
+date: 2026-07-23T20:31:47.170Z
 tags: tricks, needs work
 editor: markdown
 dateCreated: 2026-07-23T19:11:07.698Z

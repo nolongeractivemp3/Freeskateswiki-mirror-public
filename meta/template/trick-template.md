@@ -2,7 +2,7 @@
 title: Trick Template
 description: 
 published: false
-date: 2026-07-21T01:23:30.627Z
+date: 2026-07-23T20:29:17.702Z
 tags: template, tricks
 editor: markdown
 dateCreated: 2026-07-20T13:34:29.911Z

@@ -2,7 +2,7 @@
 title: Flipstomp
 description: 
 published: true
-date: 2026-07-21T01:02:11.206Z
+date: 2026-07-21T01:02:17.811Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T14:40:16.828Z

@@ -2,7 +2,7 @@
 title: JMK Freeskates
 description: 
 published: true
-date: 2026-07-21T01:14:12.592Z
+date: 2026-07-21T01:14:19.273Z
 tags: hardware
 editor: markdown
 dateCreated: 2026-07-18T19:22:46.517Z

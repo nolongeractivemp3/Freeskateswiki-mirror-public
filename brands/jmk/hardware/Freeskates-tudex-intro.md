@@ -2,7 +2,7 @@
 title: Tudex Intro Freeskates
 description: 
 published: false
-date: 2026-07-21T23:30:17.094Z
+date: 2026-07-21T23:30:25.404Z
 tags: hardware, needs work
 editor: markdown
 dateCreated: 2026-07-20T20:24:06.721Z

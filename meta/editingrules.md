@@ -2,7 +2,7 @@
 title: Core Content Rules
 description: 
 published: true
-date: 2026-07-23T20:43:13.528Z
+date: 2026-07-23T20:43:20.472Z
 tags: meta
 editor: markdown
 dateCreated: 2026-07-23T20:43:13.528Z

@@ -2,7 +2,7 @@
 title: Templates
 description: 
 published: false
-date: 2026-07-23T20:53:31.820Z
+date: 2026-07-23T20:53:34.610Z
 tags: template
 editor: markdown
 dateCreated: 2026-07-20T16:16:04.282Z

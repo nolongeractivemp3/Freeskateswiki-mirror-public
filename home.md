@@ -2,7 +2,7 @@
 title: Freeskates Wiki
 description: 
 published: true
-date: 2026-07-23T14:48:32.562Z
+date: 2026-07-23T19:01:37.382Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-17T20:27:30.245Z
@@ -20,6 +20,11 @@ Unlike traditional skates, freeskates consist of two completely independent, una
 
 ## Learning to ride
 there are 2 widely accepted methods to learning to ride 
-- The most common method is being thought by jmk on there YouTube channel where you start by rolling down a hill to get some balance before learning to pump 
-- a second more uncommon method many had great success with it's being thought here https://youtu.be/__ShooHcXbI?is=c-0m9XqT30l78B3w where you start learning balance and pumping separately on each leg and then just combine that
-
+### 1. The Hill-Roll Method (JMK Baseline)
+- The most common approach, popularized by JMKRIDE.
+- Concept: Start on a gentle incline to roll down and gain momentum naturally.
+- Focus: Allows you to focus purely on balance and foot positioning first, without the added complexity of generating force on flat ground. Once comfortable rolling, you start introducing the pumping motion.
+### 2. The Isolated-Leg Method
+- An alternative, highly effective progression method (detailed in this [tutorial video](https://youtu.be/__ShooHcXbI?is=c-0m9XqT30l78B3w)).
+- Concept: Practice balance and pumping mechanics on one leg at a time before putting both skates together.
+- Focus: Isolates leg movement to build independent muscle memory faster, reducing the initial coordination overload many beginners face.

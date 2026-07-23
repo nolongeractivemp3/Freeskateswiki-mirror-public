@@ -2,7 +2,7 @@
 title: Freeskates Wiki
 description: 
 published: true
-date: 2026-07-18T13:53:06.842Z
+date: 2026-07-23T14:42:07.380Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-17T20:27:30.245Z
@@ -13,7 +13,7 @@ Freeskating (historically known as Freeline skating) is a unique boardsport comb
 
 Unlike traditional skates, freeskates consist of two completely independent, unattached decks with two inline wheels each. There are no straps, no bindings, and no attachments—you simply step on, drive the momentum with a wave-like pumping motion, and ride.
 
-Explore the Wiki
+## Explore the Wiki
 [Trick Database](/tricks) – From foundational JMK tutorials to deep-lore legacy trick families.
 
 [Kentei-riders](/tricks/Kentei-riders) – The official Japanese ranking system to gamify your practice and level up your riding.

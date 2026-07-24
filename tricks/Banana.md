@@ -2,7 +2,7 @@
 title: Banana
 description: 
 published: true
-date: 2026-07-23T22:22:06.194Z
+date: 2026-07-23T22:22:12.559Z
 tags: tricks, needs work
 editor: markdown
 dateCreated: 2026-07-23T22:15:39.977Z

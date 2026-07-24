@@ -2,13 +2,13 @@
 title: Freeskates Wiki
 description: 
 published: true
-date: 2026-07-23T19:02:53.578Z
+date: 2026-07-24T20:30:35.507Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-17T20:27:30.245Z
 ---
 
-# Welcome to the Freeskate Wiki
+# Freeskateswiki
 Freeskating (historically known as Freeline skating) is a unique boardsport combining the fluid carving of snowboarding, the distinct footwork of inline skating, and the creative trick freedom of skateboarding.
 
 Unlike traditional skates, freeskates consist of two completely independent, unattached decks with two inline wheels each. There are no straps, no bindings, and no attachments—you simply step on, drive the momentum with a wave-like pumping motion, and ride.

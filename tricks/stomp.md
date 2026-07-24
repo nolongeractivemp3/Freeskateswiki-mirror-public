@@ -16,6 +16,7 @@ dateCreated: 2026-07-20T15:01:16.909Z
 | Backfoot frontfoot |
 | Switch and regular |
 | [Flipstomp](/tricks/flipstomp) |
+
 </div>
 While there is no exact time and date where  the stomp was invented it is definetly one of the oldest discovered tricks on freeskates. It is done by pushing of one one leg and throwing your skate down under your seccond leg. 
 

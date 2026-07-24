@@ -1,8 +1,8 @@
 ---
 title: Boneless
-description:
-published: false
-date: 2026-07-24T01:53:24.767Z
+description: 
+published: true
+date: 2026-07-24T19:59:17.720Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-24T01:53:24.767Z
@@ -26,6 +26,6 @@ The Boneless is a foundational trick that introduces verticality and air time to
 ​4. Bring the back skate back under your trailing foot at the peak of your jump, align both feet over your trucks, and stomp down together on clean pavement or the ledge.
 
 ## media
-[[jmk-ride]] published a Tutorial video on the trick here:https://youtu.be/PTn4wSHrQYg?is=l-NJ7ILp3F70ZTzL
+[JMK](/brands/jmk-ride) published a [Tutorial video](/https://youtu.be/PTn4wSHrQYg?is=l-NJ7ILp3F70ZTzL) on the trick.
 
 ## Tips for learning

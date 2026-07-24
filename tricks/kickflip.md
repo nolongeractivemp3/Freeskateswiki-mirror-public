@@ -2,7 +2,7 @@
 title: Kickflip
 description: 
 published: true
-date: 2026-07-21T01:00:27.043Z
+date: 2026-07-21T01:00:33.650Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T15:28:51.449Z

@@ -2,7 +2,7 @@
 title: Jmk Ride
 description: 
 published: true
-date: 2026-07-20T20:08:05.697Z
+date: 2026-07-20T20:31:55.063Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-17T22:26:50.904Z

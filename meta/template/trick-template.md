@@ -2,8 +2,8 @@
 title: Trick Template
 description: 
 published: false
-date: 2026-07-21T01:23:30.627Z
-tags: template, tricks
+date: 2026-07-23T21:04:10.683Z
+tags: template, tricks, meta
 editor: markdown
 dateCreated: 2026-07-20T13:34:29.911Z
 ---

@@ -2,7 +2,7 @@
 title: Stomp
 description: 
 published: false
-date: 2026-07-21T00:59:16.445Z
+date: 2026-07-21T00:59:22.930Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T15:01:16.909Z

@@ -13,21 +13,19 @@ dateCreated: 2026-07-24T01:53:24.767Z
 
   |Variation     |
 | --- |
-| Trick variation 1 |
-| trick variation 2 |
-| Trick variation 3 |
+| Switch |
+| Boneless -> grind |
+
 </div>
 
-The boneless is a important basic trick that unlock a wide variaty of grinds and generall vertically in your tricks to execute the trick you have to 
-1. pull your backskate back with your hand 
-2. push down on the ground with your backfoot
-3. hold your frontskate to your frontfoot so you dont loose it going up
-4. stomp back down on both skates while comming down
+The Boneless is a foundational trick that introduces verticality and air time to freeskating. By planting one foot on the ground while holding the skates in place, it serves as the essential gateway to jumping onto ledges, overcoming obstacles, and setting up grinds.
+## ​Mechanics & Execution
+​1. As you approach your pop, reach down with your trailing hand and pull your back skate up toward you.
+​2. Step your back foot completely off the skate and plant it firmly on the ground to push off for vertical jump height.
+​3. Keep your lead foot angled so the front skate stays stuck/pressed against your sole as you rise into the air.
+​4. Bring the back skate back under your trailing foot at the peak of your jump, align both feet over your trucks, and stomp down together on clean pavement or the ledge.
 
 ## media
-
-X published a totorial video on the trick here:
-
-Video of just the trick
+[[jmk-ride]] published a Tutorial video on the trick here:https://youtu.be/PTn4wSHrQYg?is=l-NJ7ILp3F70ZTzL
 
 ## Tips for learning

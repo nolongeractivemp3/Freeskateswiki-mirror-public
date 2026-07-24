@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "tricks/boneless.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "tricks/Kentei-riders.md",
+            "file": "tricks/boneless.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,10 +170,13 @@
   },
   "active": "7f99835b6a38d0d8",
   "lastOpenFiles": [
+    "tricks/kickflip.md",
+    "tricks/stomp.md",
+    "tricks/tokyo.md",
+    "tricks/boneless.md",
     "tricks/Kentei-riders.md",
     "home.md",
     "README.md",
-    "tricks/stomp.md",
     "tricks/flipstomp.md"
   ]
 }

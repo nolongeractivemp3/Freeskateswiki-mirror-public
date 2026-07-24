@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tricks/Kentei-riders.md",
+                "file": "tricks/boneless.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kentei-riders"
+              "title": "boneless"
             }
           }
         ]
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "right": {
     "id": "11df077eea65af27",
@@ -170,6 +170,7 @@
   },
   "active": "7f99835b6a38d0d8",
   "lastOpenFiles": [
+    "tricks/Kentei-riders.md",
     "home.md",
     "README.md",
     "tricks/stomp.md",

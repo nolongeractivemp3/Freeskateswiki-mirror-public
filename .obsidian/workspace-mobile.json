@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meta/template.md",
-                "mode": "preview",
-                "source": false
+                "file": "brands/jmk-ride.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "template"
+              "title": "jmk-ride"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "meta/template.md",
+            "file": "brands/jmk-ride.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +170,9 @@
   },
   "active": "7f99835b6a38d0d8",
   "lastOpenFiles": [
+    "brands/ascotdrifting/hardware/Dionysus.md",
+    "home.md",
+    "meta/template.md",
     "meta/template/trick-template.md",
     "meta/template/hardware.md",
     "brands/jmk/hardware/Freeskates.md",
@@ -179,7 +182,6 @@
     "tricks/stomp.md",
     "tricks/tokyo.md",
     "tricks/Kentei-riders.md",
-    "home.md",
     "README.md",
     "tricks/flipstomp.md"
   ]

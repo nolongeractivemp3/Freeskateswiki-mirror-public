@@ -2,7 +2,7 @@
 title: Boneless
 description: 
 published: true
-date: 2026-07-24T19:59:17.720Z
+date: 2026-07-24T19:59:24.647Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-24T01:53:24.767Z

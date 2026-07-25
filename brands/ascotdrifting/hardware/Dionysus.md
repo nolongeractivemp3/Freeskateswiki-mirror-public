@@ -2,7 +2,7 @@
 title: Skate template
 description: 
 published: false
-date: 2026-07-25T11:50:04.690Z
+date: 2026-07-25T11:50:11.559Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-25T11:50:04.690Z

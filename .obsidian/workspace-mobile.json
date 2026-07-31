@@ -37,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Dateiexplorer"
@@ -168,7 +170,7 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "7f99835b6a38d0d8",
+  "active": "a08cc94061ce20e5",
   "lastOpenFiles": [
     "brands/jmk/hardware/Freeskates.md",
     "brands/jmk/hardware/Freeskates-tudex-intro.md",

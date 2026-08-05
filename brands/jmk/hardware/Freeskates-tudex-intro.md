@@ -2,7 +2,7 @@
 title: Tudex Intro Freeskates
 description: 
 published: false
-date: 2026-08-05T18:41:21.277Z
+date: 2026-08-05T18:44:17.112Z
 tags: hardware, needs work
 editor: markdown
 dateCreated: 2026-07-20T20:24:06.721Z
@@ -24,4 +24,6 @@ The Tudex intro freeskates are a budget model approved by JMK, and are mainly fo
 
 ## Additional info
 
-These skates are not produced by JMK, they are only JMK approved and sold by JMK. These skates can also be bought elsewhere, such as Amazon.
+- These skates are not produced by JMK, they are only JMK approved and sold by JMK. These skates can also be bought elsewhere, such as Amazon.
+
+- There are different color variants in Europe, which have black grip tape.

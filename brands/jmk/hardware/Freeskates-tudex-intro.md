@@ -2,7 +2,7 @@
 title: Tudex Intro Freeskates
 description: 
 published: false
-date: 2026-08-05T18:44:17.112Z
+date: 2026-08-05T18:45:43.916Z
 tags: hardware, needs work
 editor: markdown
 dateCreated: 2026-07-20T20:24:06.721Z
@@ -14,7 +14,7 @@ dateCreated: 2026-07-20T20:24:06.721Z
 </div>
 
 # Tudex Intro Freeskates
-A JMK approved cheaper set of skates for beginners. [JMK Ride](/brands/jmk-ride/hardware/Freeskates) 
+A [JMK](/brands/jmk-ride) approved cheaper set of skates for beginners. 
 
 <br>
 

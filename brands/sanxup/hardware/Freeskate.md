@@ -1,8 +1,8 @@
 ---
 title: Sanxup
-description: 
+description: Cheaper Chinese Alternative
 published: true
-date: 2026-08-05T19:04:18.984Z
+date: 2026-08-05T19:04:56.568Z
 tags: hardware
 editor: markdown
 dateCreated: 2026-07-19T13:29:37.743Z

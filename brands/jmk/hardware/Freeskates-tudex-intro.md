@@ -1,9 +1,9 @@
 ---
 title: Tudex Intro Freeskates
-description: 
-published: false
-date: 2026-08-05T18:45:43.916Z
-tags: hardware, needs work
+description: JMK Approved Beginner Skates
+published: true
+date: 2026-08-05T18:46:44.770Z
+tags: hardware
 editor: markdown
 dateCreated: 2026-07-20T20:24:06.721Z
 ---

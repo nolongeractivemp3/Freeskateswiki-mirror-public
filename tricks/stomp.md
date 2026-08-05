@@ -1,8 +1,8 @@
 ---
 title: Stomp
 description: 
-published: false
-date: 2026-07-24T01:58:48.226Z
+published: true
+date: 2026-08-05T17:10:05.459Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T15:01:16.909Z

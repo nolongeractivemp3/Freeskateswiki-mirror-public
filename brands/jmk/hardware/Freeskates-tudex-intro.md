@@ -2,7 +2,7 @@
 title: Tudex Intro Freeskates
 description: 
 published: false
-date: 2026-08-05T17:18:46.364Z
+date: 2026-08-05T18:41:21.277Z
 tags: hardware, needs work
 editor: markdown
 dateCreated: 2026-07-20T20:24:06.721Z
@@ -14,14 +14,14 @@ dateCreated: 2026-07-20T20:24:06.721Z
 </div>
 
 # Tudex Intro Freeskates
-A cheaper beginner version of the [Classic JMK skates](/brands/jmk/hardware/Freeskates) 
+A JMK approved cheaper set of skates for beginners. [JMK Ride](/brands/jmk-ride/hardware/Freeskates) 
 
 <br>
 
 ## Part overview
 
-The Tuxedo Intro utilizes wooden decks rather than the cast aluminum decks found on the Classic model. Aside from the deck material, it uses hardware components similar to its premium counterparts, maintaining general cross-compatibility across the JMK ecosystem.
+The Tudex intro freeskates are a budget model approved by JMK, and are mainly for beginners who want to enter the sport for a lower price. They have wooden decks compared to aluminum, smaller shock pads, and come with flat wheels. But, they do have some advantages, especially for beginners. They come fully assembled, and also come with a small skate tool. The skates also come with pre-installed edgeguards, included for no extra cost. The skates maintain general cross-compatibility across the JMK ecosystem(In terms of Parts).
 
 ## Additional info
 
-They come fully assembled making it easier for beginners compared to their jmk counterparts
+These skates are not produced by JMK, they are only JMK approved and sold by JMK. These skates can also be bought elsewhere, such as Amazon.

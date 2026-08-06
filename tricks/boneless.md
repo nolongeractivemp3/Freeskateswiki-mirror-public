@@ -2,7 +2,7 @@
 title: Boneless
 description: 
 published: true
-date: 2026-07-24T19:59:24.647Z
+date: 2026-08-06T18:42:33.432Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-24T01:53:24.767Z
@@ -11,10 +11,10 @@ dateCreated: 2026-07-24T01:53:24.767Z
 # Boneless
 <div class="infobox">
 
-  |Variation     |
+  |Variations     |
 | --- |
 | Switch |
-| Boneless -> grind |
+| Boneless -> Grind |
 
 </div>
 
@@ -25,7 +25,5 @@ The Boneless is a foundational trick that introduces verticality and air time to
 ​3. Keep your lead foot angled so the front skate stays stuck/pressed against your sole as you rise into the air.
 ​4. Bring the back skate back under your trailing foot at the peak of your jump, align both feet over your trucks, and stomp down together on clean pavement or the ledge.
 
-## media
+## Media
 [JMK](/brands/jmk-ride) published a [Tutorial video](/https://youtu.be/PTn4wSHrQYg?is=l-NJ7ILp3F70ZTzL) on the trick.
-
-## Tips for learning

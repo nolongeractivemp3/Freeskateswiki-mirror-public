@@ -1,8 +1,8 @@
 ---
 title: Kickflip
-description: 
+description: Trick
 published: true
-date: 2026-08-06T19:16:31.880Z
+date: 2026-08-06T19:16:51.892Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T15:28:51.449Z

@@ -39,12 +39,10 @@ Sanxup offeres a few different color schemes including full blue, full black, fo
 - These skates are mainly availible through Amazon
 
 ## Product Photos
-<div class="infobox">
 
  ![](/sanxup/freeskates-variant-black-bgremoved.png)
+ 
 ![](/sanxup/freeskate-variant-blak-sizes.jpg)
-  
-</div>
 
 ![](/sanxup/freeskate-variant-blue-marked.jpg)
 

@@ -2,7 +2,7 @@
 title: Freeskates Wiki
 description: The go-to place for Freeskating information!
 published: true
-date: 2026-08-05T19:18:48.580Z
+date: 2026-08-06T19:47:33.108Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-17T20:27:30.245Z
@@ -20,15 +20,9 @@ Unlike traditional skates, freeskates consist of two completely independent, una
 ## Explore the Wiki
 [Trick Database](/tricks) – From foundational JMK tutorials to deep-lore legacy trick families.
 
-[Kentei-riders](/tricks/Kentei-riders) – The official Japanese ranking system to gamify your practice and level up your riding.
+[Kentei System](/tricks/Kentei-riders) – The official Japanese ranking system to gamify your practice and level up your riding.
 
-## Learning to ride
-there are 2 widely accepted methods to learning to ride 
-### 1. The Hill-Roll Method (JMK Baseline) (Not a real name)
-- The most common approach, popularized by JMKRIDE.
-- Concept: Start on a gentle incline to roll down and gain momentum naturally.
-- Focus: Allows you to focus purely on balance and foot positioning first, without the added complexity of generating force on flat ground. Once comfortable rolling, you start introducing the pumping motion.
-### 2. The Isolated-Leg Method (Not a real name)
-- An alternative, highly effective progression method (detailed in this [tutorial video](https://youtu.be/__ShooHcXbI?is=c-0m9XqT30l78B3w)).
-- Concept: Practice balance and pumping mechanics on one leg at a time before putting both skates together.
-- Focus: Isolates leg movement to build independent muscle memory faster, reducing the initial coordination overload many beginners face.
+[Learning To Ride](/basics/Learning_To_Ride) - The two most common Methods for learning how to ride Freeskates.
+
+[JMK Ride](/brands/jmk-ride) - The biggest brand in Freeskating
+

@@ -2,7 +2,7 @@
 title: Flip Stomp
 description: Trick
 published: true
-date: 2026-08-06T20:21:14.048Z
+date: 2026-08-06T20:26:14.787Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T14:40:16.828Z
@@ -26,4 +26,4 @@ The flip stomp is a way to start riding dating back at least 14 years To do the 
 
 ## Tips for learning
 
-Master the stomp before trying to learn this trick.
+Master the [stomp](/tricks/stomp) before trying to learn this trick.

@@ -1,14 +1,14 @@
 ---
-title: Flipstomp
-description: 
+title: Flip Stomp
+description: Trick
 published: true
-date: 2026-08-06T18:45:19.222Z
+date: 2026-08-06T19:21:20.264Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T14:40:16.828Z
 ---
 
-# Flip stomp - variation of: [Stomp](/tricks/stomp)
+# Flip Stomp - Variation of: [Stomp](/tricks/stomp)
 <div class="infobox">
   
 | Variations |

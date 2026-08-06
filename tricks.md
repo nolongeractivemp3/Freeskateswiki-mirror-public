@@ -2,7 +2,7 @@
 title: Tricks
 description: 
 published: true
-date: 2026-07-23T22:10:08.558Z
+date: 2026-08-06T18:39:52.560Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-18T13:21:20.455Z
@@ -26,5 +26,5 @@ Due to the open-ended nature of the sport, there is a near-infinite variety of f
 Alongside these mainstream staples, underground creators like [Uesan](https://www.youtube.com/@TakayukiDAYO) and various legacy channels have spent over a decade innovating entirely unique, independent trick families—such as the [Bite Cycle Flip](https://www.youtube.com/watch?v=KLza2OrNhck) or [Elevator 180° Down](https://www.youtube.com/watch?v=vkzqHp1IGp4&pp=0gcJCZkLAYcqIYzv)—that remain largely undiscovered by the wider modern scene.
 
 For a structured roadmap on how these tricks rank and progress, check out the [Kentei Class Progression](/tricks/Kentei-riders) system.
-
-(ai was used for the writing part of this page)
+ 
+**AI was used to write some content on this page*

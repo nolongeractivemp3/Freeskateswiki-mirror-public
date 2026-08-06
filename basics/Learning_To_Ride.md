@@ -2,7 +2,7 @@
 title: Learning To Ride
 description: The two most common Methods for learning how to ride Freeskates.
 published: true
-date: 2026-08-06T19:35:32.920Z
+date: 2026-08-06T19:37:36.727Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-06T18:35:23.646Z
@@ -19,3 +19,5 @@ There are two widely accepted methods for learning to ride Freeskates.
 - An alternative, highly effective progression method (detailed in this [tutorial video](https://youtu.be/__ShooHcXbI?is=c-0m9XqT30l78B3w)).
 - Concept: Practice balance and pumping mechanics on one leg at a time before putting both skates together.
 - Focus: Isolates leg movement to build independent muscle memory faster, reducing the initial coordination overload many beginners face.
+
+**More Content Coming Soon*

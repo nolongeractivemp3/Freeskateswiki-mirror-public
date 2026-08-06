@@ -1,8 +1,8 @@
 ---
 title: Boneless
-description: 
+description: Trick
 published: true
-date: 2026-08-06T18:42:33.432Z
+date: 2026-08-06T19:17:40.964Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-24T01:53:24.767Z

@@ -1,8 +1,8 @@
 ---
 title: Banana
-description: 
+description: Trick
 published: true
-date: 2026-08-06T18:41:21.260Z
+date: 2026-08-06T19:17:13.455Z
 tags: tricks, needs work
 editor: markdown
 dateCreated: 2026-07-23T22:15:39.977Z

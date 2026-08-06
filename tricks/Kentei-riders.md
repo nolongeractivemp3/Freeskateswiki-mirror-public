@@ -2,7 +2,7 @@
 title: Kentei System
 description: The Kentei System is an official progression framework developed by Kyoki and the JMKRIDE team.
 published: true
-date: 2026-08-06T18:47:38.061Z
+date: 2026-08-06T18:48:03.836Z
 tags: needs work
 editor: markdown
 dateCreated: 2026-07-18T13:43:24.808Z

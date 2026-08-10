@@ -2,7 +2,7 @@
 title: One foot
 description: 
 published: false
-date: 2026-08-10T19:45:12.141Z
+date: 2026-08-10T19:48:59.233Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T19:45:12.141Z
@@ -13,17 +13,15 @@ dateCreated: 2026-08-10T19:45:12.141Z
 
   |Variation|
 | --- |
-| Trick variation 1 |
-| trick variation 2 |
-| Trick variation 3 |
+| Frontfoot/backfoot |
+| regular/switch |
 </div>
-
 Riding onefoot is a basic ability that is needed for a variaty of tricks including Banana, kickflips 
+as You get better at riding onefoot you can also learn to pump onefooted
 
 ## media
 
-X published a totorial video on the trick here:
-
-Video of just the trick
+JMK published a [tutorial video](https://youtu.be/jxPECoTu-LE?si=JVQghg60Bf-H6ujZ) on the trick here:
 
 ## Tips for learning
+starting to ride and then loosing one skate so you dont have to start onefooted

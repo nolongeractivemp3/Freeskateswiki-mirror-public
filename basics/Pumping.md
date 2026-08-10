@@ -1,8 +1,8 @@
 ---
-title: Pumpinh
+title: Pumping
 description: The primary technique to generate speed
 published: true
-date: 2026-08-10T10:25:37.500Z
+date: 2026-08-10T10:25:59.580Z
 tags: basics
 editor: markdown
 dateCreated: 2026-08-08T13:06:49.221Z

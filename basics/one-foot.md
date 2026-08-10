@@ -2,7 +2,7 @@
 title: One foot
 description: 
 published: false
-date: 2026-08-10T19:52:03.829Z
+date: 2026-08-10T20:20:13.381Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T19:45:12.141Z
@@ -13,6 +13,7 @@ dateCreated: 2026-08-10T19:45:12.141Z
 
   |Variation|
 | --- |
+| Frontfoot/backfoot |
 | Frontfoot/backfoot |
 | regular/switch |
 </div>

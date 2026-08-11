@@ -2,14 +2,15 @@
 title: Pumping
 description: The primary technique to generate speed
 published: true
-date: 2026-08-10T10:25:59.580Z
+date: 2026-08-11T15:50:40.580Z
 tags: basics
 editor: markdown
 dateCreated: 2026-08-08T13:06:49.221Z
 ---
 
 # Pumping
-Pumping is the primary technique used in freeskating to generate momentum and maintain speed without touching the ground. By using specific body mechanics, edge control, and foot angles, freeskaters convert lateral (side-to-side) motion into forward thrust.
+![regular-diagramm.webp](/basics/regular-diagramm.webp)
+  Pumping is the primary technique used in freeskating to generate momentum and maintain speed without touching the ground. By using specific body mechanics, edge control, and foot angles, freeskaters convert lateral (side-to-side) motion into forward thrust.
 
 ## How It Works
 - Pumping relies on shifting your weight and changing the angle of your skates relative to your direction of travel.

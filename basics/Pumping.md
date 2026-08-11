@@ -2,14 +2,14 @@
 title: Pumping
 description: The primary technique to generate speed
 published: true
-date: 2026-08-11T20:24:47.486Z
+date: 2026-08-11T20:27:14.617Z
 tags: basics
 editor: markdown
 dateCreated: 2026-08-08T13:06:49.221Z
 ---
 
 # Pumping
-<div class="infobox" style="scale: 200%;">
+<div class="infobox" style="    width: 460px;">
   
   ![pumpingdiagramm.png](/basics/pumpingdiagramm.png)  ^translated^ ^from^ ^freeskates.ch^
 </div>

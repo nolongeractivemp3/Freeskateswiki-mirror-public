@@ -2,7 +2,7 @@
 title: Stances
 description: 
 published: true
-date: 2026-08-11T16:00:21.431Z
+date: 2026-08-11T20:29:46.328Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-18T02:20:11.413Z
@@ -22,5 +22,7 @@ Every rider has a natural default stance, usually determined by which foot feels
 It is strongly recommended to practice both your default stance and your **Switch** stance simultaneously while learning the absolute basics.
 Because freeskating relies heavily on fine motor control in independent legs, building asymmetric muscle memory early on makes learning switch significantly harder later.
 ### Media
-![goofy-diagramm.webp](/basics/goofy-diagramm.webp)  ^translated^ ^from^ ^freeskates.ch^
 These stances are covered in almost all long form beginner tutorials, usually on Youtube by JMK Ride.
+
+> For a more detailed look at how pumping with both stances works check out [Pumping](/basics/Pumping) 
+{.is-info}

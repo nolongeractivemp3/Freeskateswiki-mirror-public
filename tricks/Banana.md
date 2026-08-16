@@ -2,14 +2,14 @@
 title: Banana
 description: A beginner trick where you toss one skate in a sweeping arc and step back onto it while rolling.
 published: true
-date: 2026-08-16T20:05:51.193Z
+date: 2026-08-16T20:24:20.380Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-23T22:15:39.977Z
 ---
 
 # Banana
-![202608162148_(1).gif](/tricks/202608162148_(1).gif){.align-right}
+![202608162148_(1).gif](/tricks/banana.gif){.align-right}
 The banana is an iconic beginner trick where you toss your skate (typically the back foot) so it rolls ahead in a sweeping arc while you coast on one foot, then step back onto it to complete the catch.
 ## Variations
 You can perform this trick off either your front or back foot, in both your regular and switch stance.

@@ -2,7 +2,7 @@
 title: Stomp
 description: Trick
 published: true
-date: 2026-08-18T18:32:45.558Z
+date: 2026-08-18T18:33:12.841Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T15:01:16.909Z
@@ -10,7 +10,7 @@ dateCreated: 2026-07-20T15:01:16.909Z
 
 # Stomp
 ![stomp.gif](/tricks/stomp.gif){.align-right}
-While there is no definitive date for when the Stomp was invented, it is definitely one of the oldest discovered tricks on freeskates. It is performed by pushing off with one leg and throwing your other skate down directly under your second foot.
+While there is no definitive date for when the Stomp was invented, it is definitely one of the oldest discovered tricks on freeskates. It is performed by pushing off with [one leg](/basics/one-foot) and throwing your other skate down directly under your second foot.
 ## Variations
 The Stomp can be performed using either your front or back foot in both [regular and switch stances](/basics/Stances). Once you have mastered the basic movement, you can elevate the trick into a [Flipstomp](/tricks/flipstomp) by flipping the skate in mid-air before stomping it down.
 ## Media

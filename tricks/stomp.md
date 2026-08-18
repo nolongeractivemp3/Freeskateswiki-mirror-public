@@ -1,8 +1,8 @@
 ---
 title: Stomp
-description: Trick
+description: A foundational freeskate trick where you push off with one foot and stomp your other skate directly into the landing.
 published: true
-date: 2026-08-18T18:33:12.841Z
+date: 2026-08-18T18:34:05.043Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T15:01:16.909Z

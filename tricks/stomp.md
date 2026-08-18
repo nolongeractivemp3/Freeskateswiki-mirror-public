@@ -2,7 +2,7 @@
 title: Stomp
 description: Trick
 published: true
-date: 2026-08-18T18:29:23.101Z
+date: 2026-08-18T18:31:46.168Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T15:01:16.909Z
@@ -15,7 +15,7 @@ While there is no definitive date for when the Stomp was invented, it is definit
 The Stomp can be performed using either your front or back foot in both [regular and switch stances](/basics/Stances). Once you have mastered the basic movement, you can elevate the trick into a [Flipstomp](/tricks/flipstomp) by flipping the skate in mid-air before stomping it down.
 ## Media
 JMK published a [video](https://youtu.be/If9FfTP7EvA?si=EEOO-LXmGVd6OHoQ) teaching the trick to a beginner
-
+The gif on the right is taken from a different [video](/https://youtu.be/OwcZe-H13WE?si=8W6SwW43p3ApBn_V&t=15) jmk published on the Nov 11, 2022
 ## Tips for learning
  - First practice doing the Stomp without the other skate
  - While doing the stomp, Lift your foot up before dropping the skate

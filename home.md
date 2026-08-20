@@ -2,7 +2,7 @@
 title: Freeskates Wiki
 description: The go-to place for Freeskating information!
 published: true
-date: 2026-08-20T15:43:43.447Z
+date: 2026-08-20T15:44:30.871Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-17T20:27:30.245Z
@@ -31,6 +31,4 @@ Unlike traditional skates, freeskates consist of two completely independent, una
 Currently, the biggest online Freeskate groups are the [Freeskates Family Discord Server](https://discord.com/invite/rawKzP5YD2)(Which is Moderated by JMK Ride members), and the [r/freeskate subreddit](https://www.reddit.com/r/freeskate/) JMK Ride also has other socials, such as [Youtube](https://youtube.com/@jmkride), [Instagram](https://www.instagram.com/jmkride), Facebook, etc.
 
 **More Links Coming Soon!*
-
-
-![freeskates_wiki_logo_wideborders.png](/freeskates_wiki_logo_wideborders.png){.align-abstopright}
+![freeskates_wiki_logo.webp](/freeskates_wiki_logo.webp){.align-abstopright}

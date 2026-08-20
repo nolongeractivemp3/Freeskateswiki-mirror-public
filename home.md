@@ -2,7 +2,7 @@
 title: Freeskates Wiki
 description: The go-to place for Freeskating information!
 published: true
-date: 2026-08-12T19:42:35.159Z
+date: 2026-08-20T15:39:11.803Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-17T20:27:30.245Z
@@ -32,3 +32,4 @@ Currently, the biggest online Freeskate groups are the [Freeskates Family Discor
 
 **More Links Coming Soon!*
 
+![freeskates_wiki_logo.webp](/freeskates_wiki_logo.webp){.align-abstopright}

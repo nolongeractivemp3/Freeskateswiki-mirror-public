@@ -2,7 +2,7 @@
 title: Freeskates Wiki
 description: The go-to place for Freeskating information!
 published: true
-date: 2026-08-20T15:50:33.178Z
+date: 2026-08-21T17:34:42.557Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-17T20:27:30.245Z
@@ -34,4 +34,4 @@ Currently, the biggest online Freeskate groups are the [Freeskates Family Discor
 
 ![freeskates_wiki_logo_wideborders.png](/freeskates_wiki_logo_wideborders.png) 
 
-> Logo design by Justacuber
+> Logo design by: just_a_cuber_

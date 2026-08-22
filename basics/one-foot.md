@@ -1,8 +1,8 @@
 ---
 title: One foot
-description: 
+description: The basics on riding on only one foot for an extended period of time.
 published: false
-date: 2026-08-22T21:29:05.921Z
+date: 2026-08-22T21:29:58.430Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-10T19:45:12.141Z

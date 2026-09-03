@@ -2,17 +2,13 @@
 title: Ascot drifting
 description: 
 published: false
-date: 2026-08-06T20:16:43.776Z
+date: 2026-09-03T19:50:07.036Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-25T12:18:32.860Z
 ---
 
-<div class="infobox">
-  
-![logo.png](/ascotdrifting/logo.jpg)
-</div>
-  
+![logo-nobg.png](/ascotdrifting/logo-nobg.png){.align-abstopright}
 Ascot drifting is a skating brand which sells longboards, cruisers, and premium freeskates(called drift skates on their site) 
 
 ### Product Line

@@ -2,20 +2,17 @@
 title: Openfreeskate V2
 description: 
 published: true
-date: 2026-07-24T01:49:38.383Z
+date: 2026-09-03T20:05:19.977Z
 tags: hardware, needs work
 editor: markdown
 dateCreated: 2026-07-24T00:56:04.219Z
 ---
 
-<div class="infobox">
-
-  ![freeskates-variant-1.png](/foss/freeskates-variant-1.png)
-
-</div>
-
 # Openfreeskate V2
+
+
 A 3d printable design by [edgex004](https://github.com/edgex004) allowing you to build your own freeskates from **nearly** all 3d printed parts
+![freeskates-variant-1.png](/foss/freeskates-variant-1.png){.align-abstopright}
 ## part overview
 ### 3d printable parts
 - 2 Decks

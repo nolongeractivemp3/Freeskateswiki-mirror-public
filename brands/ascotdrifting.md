@@ -2,17 +2,20 @@
 title: Ascot drifting
 description: 
 published: false
-date: 2026-09-03T19:52:12.732Z
+date: 2026-09-03T19:56:20.476Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-25T12:18:32.860Z
 ---
 
-![logo.jpg](/ascotdrifting/logo.jpg){.align-abstopright}
-Ascot drifting is a skating brand which sells longboards, cruisers, and premium freeskates(called drift skates on their site) 
+# Ascot Drifting
+![logo.jpg](/ascotdrifting/logo.jpg){.align-right}
 
-### Product Line
+Ascot drifting is a lesser known skating brand which sells [longboards]
+(https://www.ascotdrifting.com/index.php?route=product/category&path=64), [cruisers](/https://www.ascotdrifting.com/index.php?route=product/category&path=65), and premium [freeskates](/https://www.ascotdrifting.com/index.php?route=product/category&path=63)(called drift skates on their site) 
+
+## Product Line
 Their lineup includes skates ranging from $85 up to $225 few notable examples include: 
-- The classic [Dionysus](https://www.ascotdrifting.com/index.php?route=product/product&path=63&product_id=54) 
+- The [Dionysus](https://www.ascotdrifting.com/index.php?route=product/product&path=63&product_id=54) are there classic skates  
 - [Cupid](https://www.ascotdrifting.com/index.php?route=product/product&path=63&product_id=82)
 

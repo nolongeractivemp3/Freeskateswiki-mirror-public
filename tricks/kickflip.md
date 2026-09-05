@@ -1,8 +1,8 @@
 ---
 title: Kickflip
-description: Trick
+description: The kickflip is a trick where you flick one skate to rotate it 360 degrees in the air before catching and stomping it back down.
 published: true
-date: 2026-09-05T17:20:24.042Z
+date: 2026-09-05T17:21:22.909Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T15:28:51.449Z

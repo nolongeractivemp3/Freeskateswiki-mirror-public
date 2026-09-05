@@ -2,7 +2,7 @@
 title: Kickflip
 description: Trick
 published: true
-date: 2026-09-05T17:10:16.600Z
+date: 2026-09-05T17:20:24.042Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T15:28:51.449Z
@@ -11,14 +11,13 @@ dateCreated: 2026-07-20T15:28:51.449Z
 # Kickflip
 ![kickflip.gif](/tricks/kickflip.gif){.align-right}
 
-The Kickflip is a trick where you push down and shortly after back from one skate so it does one rotation before you stomp it back down How to Kickflip on Freeskates.
-
-Standard kickflip variations include backfoot and [switch](/basics/Stances) 
+The Kickflip is a trick where you press down and flick one skate so it completes a full 360-degree rotation in the air before you catch and stomp it back down.
+## Variations
+Standard kickflip variations include backfoot and [switch](/basics/Stances) as well as the [kickflip switch-it](https://youtu.be/5nhA7kJxvnQ) and the [dual kickflip](https://www.youtube.com/shorts/jf0BZWj4JUg)
 
 ## Media
 
-JMK published a [tutorial video](https://youtu.be/LGQO7UzpZrI?si=rTpXhkOwHJbcuzh5) on the trick.
+[JMKRIDE Kickflip Tutorial](https://youtu.be/LGQO7UzpZrI) — Breaks down the pop, flick motion, and landing timing.
 
 ## Tips for learning
-
-You should be comfortable balancing on one skate, since on skate is flipping in the air for a few seconds.
+- Being comfortable riding [one-foot](/basics/one-foot) is essential, since your supporting foot has to hold your weight while the other skate is flipping in the air.

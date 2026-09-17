@@ -2,7 +2,7 @@
 title: Sanxup
 description: Cheaper Chinese Alternative
 published: true
-date: 2026-09-17T18:00:11.222Z
+date: 2026-09-17T20:05:05.767Z
 tags: hardware
 editor: markdown
 dateCreated: 2026-07-19T13:29:37.743Z
@@ -33,8 +33,6 @@ Sanxup offeres a few different color schemes including full blue, full black, fo
 - These skates are mainly availible through Amazon
 
 ## Product Photos
-
- ![](/sanxup/freeskates-variant-black-bgremoved.png)
  
 ![](/sanxup/freeskate-variant-blak-sizes.jpg)
 

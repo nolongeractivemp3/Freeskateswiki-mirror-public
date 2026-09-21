@@ -2,23 +2,26 @@
 title: Learning To Ride
 description: The two most common Methods for learning how to ride Freeskates.
 published: true
-date: 2026-08-11T20:32:16.382Z
+date: 2026-09-21T18:10:36.010Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-06T18:35:23.646Z
 ---
 
-# Learning To Ride
-There are two widely accepted methods for learning to ride Freeskates.
+# Learning to Ride
 
-### 1. The Hill-Roll Method (JMK Baseline) (Not a real name)
-- The most common approach, popularized by JMKRIDE.
-- Concept: Start on a gentle incline to roll down and gain momentum naturally.
-- Focus: Allows you to focus purely on balance and foot positioning first, without the added complexity of generating force on flat ground. Once comfortable rolling, you start introducing the [pumping](/basics/Pumping) motion.
-### 2. The Isolated-Leg Method (Not a real name)
-- An alternative, highly effective progression method (detailed in this [tutorial video](https://youtu.be/__ShooHcXbI?is=c-0m9XqT30l78B3w)).
-- Concept: Practice balance and [pumping](/basics/Pumping) mechanics on one leg at a time before putting both skates together.
-- Focus: Isolates leg movement to build independent muscle memory faster, reducing the initial coordination overload many beginners face.
+There are two primary methods for learning how to ride freeskates:
+
+### 1. The JMKRIDE Method
+* **Overview:** The most common approach, popularized by [JMKRIDE](/brands/jmk-ride).
+* **Concept:** Start on a gentle incline to roll down and gain momentum naturally.
+* **Focus:** Allows you to focus purely on balance and foot positioning first, without the complexity of generating force on flat ground. Once comfortable rolling, you introduce the [pumping](/basics/Pumping) motion.
+
+### 2. The Alternative Method
+* **Overview:** A progressive approach (demonstrated in this [tutorial video](https://youtu.be/__ShooHcXbI?is=c-0m9XqT30l78B3w)).
+* **Concept:** Practice balance and [pumping](/basics/Pumping) mechanics on one leg at a time before combining both skates.
+* **Focus:** Isolates leg movement to build independent muscle memory faster and cuts down initial coordination overload.
+
 ## Tips
-- it is recommended to learn both [Stances](/basics/Stances) at the same time to more quickly build up muscle memory
-**More Content Coming Soon*
+
+* **Learn Both Stances Early:** It is heavily recommended to practice in both [stances](/basics/Stances) from the start to build symmetrical muscle memory.

@@ -1,8 +1,8 @@
 ---
 title: Openfreeskate V2
-description: 
+description: Open source design for 3D printed driftskate/freeskate
 published: true
-date: 2026-09-22T18:12:50.045Z
+date: 2026-09-22T18:13:13.804Z
 tags: hardware
 editor: markdown
 dateCreated: 2026-07-24T00:56:04.219Z

@@ -2,7 +2,7 @@
 title: Tricks
 description: A short overview of freestyle tricks on freeskates 
 published: true
-date: 2026-09-22T18:21:02.177Z
+date: 2026-09-22T18:21:57.678Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-18T13:21:20.455Z
@@ -16,7 +16,7 @@ Alongside these mainstream staples, underground creators like [Uesan](https://ww
 
 For a structured roadmap on how these tricks rank and progress, check out the [Kentei Class Progression](/tricks/Kentei-riders) system.
  
-Down below is a incomplete list of some of the tricks and guides /articals about them
+Down below is a incomplete list of some of the tricks and guides/articles about them
 |     Trick| Tutorial link    |
 | --- | --- |
 | [Stomp](/tricks/stomp) | [How to Stomp on Freeskates! (beginner learns)](https://youtu.be/If9FfTP7EvA) |

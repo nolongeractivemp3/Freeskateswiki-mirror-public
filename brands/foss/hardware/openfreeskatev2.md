@@ -2,8 +2,8 @@
 title: Openfreeskate V2
 description: 
 published: true
-date: 2026-09-22T17:57:18.124Z
-tags: hardware, needs work
+date: 2026-09-22T17:57:33.841Z
+tags: hardware
 editor: markdown
 dateCreated: 2026-07-24T00:56:04.219Z
 ---

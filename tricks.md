@@ -1,9 +1,9 @@
 ---
 title: Tricks
-description: 
+description: A short overview of freestyle tricks on freeskates 
 published: true
-date: 2026-09-22T18:17:24.843Z
-tags: 
+date: 2026-09-22T18:21:02.177Z
+tags: tricks
 editor: markdown
 dateCreated: 2026-07-18T13:21:20.455Z
 ---

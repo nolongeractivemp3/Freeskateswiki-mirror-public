@@ -2,7 +2,7 @@
 title: Tricks
 description: 
 published: true
-date: 2026-09-22T18:11:15.006Z
+date: 2026-09-22T18:17:24.843Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-18T13:21:20.455Z
@@ -27,6 +27,7 @@ Down below is a incomplete list of some of the tricks and guides /articals about
 | [Tokyo](/tricks/tokyo) | [How to Tokyo on Freeskates](https://youtu.be/Gz6LZINsTws) |
 | [Flipstomp](/tricks/flipstomp) | [How to Flip Stomp on Freeskates](https://youtu.be/6t73GNw4G1g) |
 | NoGrab | [How to No Grab on Freeskates!](https://youtu.be/JHi6YRj90hA) |
-
+| Floater flip | [How to Floater Flip on Freeskates!](https://youtu.be/XRFO7U-7TVw) |
+| infinite spin | [How to infinite spin on Freeskates!](https://youtu.be/_x0L8muIOr0) |
 
 **AI was used to write some content on this page*

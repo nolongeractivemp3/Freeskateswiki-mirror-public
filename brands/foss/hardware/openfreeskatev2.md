@@ -2,7 +2,7 @@
 title: Openfreeskate V2
 description: 
 published: true
-date: 2026-09-22T17:57:33.841Z
+date: 2026-09-22T18:12:50.045Z
 tags: hardware
 editor: markdown
 dateCreated: 2026-07-24T00:56:04.219Z
@@ -22,7 +22,7 @@ dateCreated: 2026-07-24T00:56:04.219Z
 - 4 M8x80mm partially threaded bolts
 - 4 M8 locking nuts
 
-The parts list was taken from his [github repo](https://github.com/edgex004/openfreeskate)
+The parts list was taken from his [Github repo](https://github.com/edgex004/openfreeskate)
 ## Custamizability
 The designer provides OpenSCAD (.scad) source files for every printable component, making the design deeply modifiable with virtually infinite customization potential.
 ## additional info

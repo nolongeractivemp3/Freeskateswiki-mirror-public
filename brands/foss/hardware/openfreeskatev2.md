@@ -2,15 +2,14 @@
 title: Openfreeskate V2
 description: 
 published: true
-date: 2026-09-22T17:53:10.282Z
+date: 2026-09-22T17:57:18.124Z
 tags: hardware, needs work
 editor: markdown
 dateCreated: 2026-07-24T00:56:04.219Z
 ---
 
 # Openfreeskate V2
-
-![freeskates-varient-2_cropped-compressed.gif](/foss/freeskates-varient-2_cropped-compressed.gif){.align-right}A 3d printable design by [edgex004](https://github.com/edgex004) allowing you to build your own freeskates from **nearly** all 3d printed parts
+![freeskates-varient-2_cropped-compressed.gif](/foss/freeskates-varient-2_cropped-compressed.gif){.align-right} OpenFreeskate V2 is an open-source, 3D-printable freeskate design created by [edgex004](https://github.com/edgex004) that allows you to build your own pair of freeskates using almost entirely 3D-printed components.
 
 ## part overview
 ### 3d printable parts
@@ -25,6 +24,6 @@ dateCreated: 2026-07-24T00:56:04.219Z
 
 The parts list was taken from his [github repo](https://github.com/edgex004/openfreeskate)
 ## Custamizability
-He provides scat files for each part you can 3d print so the custimizablility is bassicly infinite
+The designer provides OpenSCAD (.scad) source files for every printable component, making the design deeply modifiable with virtually infinite customization potential.
 ## additional info
-you also need to provide your own jmk wheels
+- You will need to provide your own wheels (such as [JMK Freeskates wheels](https://usa.jmkride.com/products/proformance-wheels-set-of-4-full-set) ) and standard skate bearings to complete the setup.

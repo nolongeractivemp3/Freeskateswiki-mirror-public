@@ -2,7 +2,7 @@
 title: JMK Ride
 description: The biggest brand in Freeskating
 published: true
-date: 2026-09-27T17:56:18.580Z
+date: 2026-09-27T17:56:42.323Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-17T22:26:50.904Z
@@ -15,10 +15,9 @@ JMKRIDE is the central pillar and definitive backbone of the modern freeskating 
 
 ## Product Line
 Jmk offers a variaty of products in there [online shop](https://www.jmkride.com/shops) these include but are not limited too
-
+![logo.png](/jmk/logo.png){.align-abstopright}
 - [JMK Freeskates](/brands/jmk/hardware/Freeskates): The brand's signature flagship model, known for its durable metal frame and highly customizable color decks and grip tape.
 - [Tudex Intro Freeskates](/brands/jmk/hardware/Freeskates-tudex-intro): A budget-conscious, beginner-aimed entry model designed to lower the financial barrier to entering the sport.
 - Accessories: The primary source for official custom components, including [edge guards](https://usa.jmkride.com/collections/edge-guards), [specialized wheels](https://usa.jmkride.com/collections/wheels), [bearings](https://usa.jmkride.com/products/jmkride-bearings), and replacement parts.
 `The links in the Accessories part only link to the us shop for the other shops visit the [regional shop](https://www.jmkride.com/shops) list
 `
-![logo.png](/jmk/logo.png){.align-abstopright}

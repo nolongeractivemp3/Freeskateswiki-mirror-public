@@ -2,8 +2,8 @@
 title: JMK Ride
 description: The biggest brand in Freeskating
 published: true
-date: 2026-09-27T17:58:05.899Z
-tags: brand
+date: 2026-09-27T17:59:50.151Z
+tags: hardware, brand
 editor: markdown
 dateCreated: 2026-07-17T22:26:50.904Z
 ---

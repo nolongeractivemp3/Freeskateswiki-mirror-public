@@ -1,8 +1,8 @@
 ---
 title: Boneless
-description: Trick
+description: A foundational aerial maneuver where you plant one foot on the ground to lift the skates and gain vertical height for clearing obstacles and setting up grinds.
 published: true
-date: 2026-09-26T19:58:58.280Z
+date: 2026-09-27T17:46:03.387Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-24T01:53:24.767Z

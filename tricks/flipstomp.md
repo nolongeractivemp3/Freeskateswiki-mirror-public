@@ -1,8 +1,8 @@
 ---
 title: Flip Stomp
-description: Trick
+description: Flip your skate while mounting.
 published: true
-date: 2026-09-28T20:12:20.001Z
+date: 2026-09-28T20:19:03.976Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T14:40:16.828Z

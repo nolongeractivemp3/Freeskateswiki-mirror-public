@@ -2,21 +2,18 @@
 title: Kentei System
 description: The Kentei System is an official progression framework developed by Kyoki and the JMKRIDE team.
 published: true
-date: 2026-08-06T18:49:45.054Z
+date: 2026-09-28T15:24:42.570Z
 tags: needs work
 editor: markdown
 dateCreated: 2026-07-18T13:43:24.808Z
 ---
 
-<div class="infobox">
-
- | [Kentei Class progression](https://youtube.com/playlist?list=PLY3dsmD8zQlmPyHrq9I-15OYcQuyVEqxJ&si=nfTtn0NdTERuvZL7) |
+| [Kentei Class progression](https://youtube.com/playlist?list=PLY3dsmD8zQlmPyHrq9I-15OYcQuyVEqxJ) |
 | --- |
-| [Beginner Class](https://youtu.be/47sTkcAkMj8?si=W9h87LpLZbLGnWUy) |
-| [Intermediate Class](https://youtu.be/aZAC5KhGnU4?si=qo5znW-FoK9GZnHK) |
-| [Master Class](https://youtu.be/V9y6CRDoiJU?si=Vw6BGUaRqK3dFujL) |
-| [Expert Class](https://youtu.be/SNRZ4XT7cHM?si=BriClMlDjHOB38ud) |
-</div>
+| [Beginner Class](https://youtu.be/47sTkcAkMj8) |
+| [Intermediate Class](https://youtu.be/aZAC5KhGnU4) |
+| [Master Class](https://youtu.be/V9y6CRDoiJU) |
+| [Expert Class](https://youtu.be/SNRZ4XT7cHM) |
 
 # Kentei System
 The Kentei System is an official progression framework developed by Kyoki and the JMKRIDE team. Designed to give freeskaters a clear, structured skill tree, it categorizes freestyle [tricks](/tricks) into four distinct difficulty classes.

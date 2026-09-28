@@ -2,7 +2,7 @@
 title: Flip Stomp
 description: Trick
 published: true
-date: 2026-09-28T20:10:28.583Z
+date: 2026-09-28T20:12:20.001Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T14:40:16.828Z
@@ -19,5 +19,4 @@ Commmon variations of doing the flip stomp include doing it [switch](/basics/Sta
 - Oldest variation we could find: [https://youtu.be/0-VxiYsQR1o](https://youtu.be/0-VxiYsQR1o)
 
 ## Tips for learning
-
-Master the [stomp](/tricks/stomp) before trying to learn this trick.
+- Master the [stomp](/tricks/stomp) before trying to learn this trick.

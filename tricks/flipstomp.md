@@ -2,28 +2,21 @@
 title: Flip Stomp
 description: Trick
 published: true
-date: 2026-08-20T01:57:20.601Z
+date: 2026-09-28T20:10:28.583Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-20T14:40:16.828Z
 ---
 
 # Flip Stomp - Variation of: [Stomp](/tricks/stomp)
-<div class="infobox">
-  
-| Variations |
-| --- |
-| [Switch-regular](/basics/Stances) |
-| Back Foot-Front foot |
-| Double flip stomp |
-| n flip stomp (n > five) |
-</div>
+![flipstomp.gif](/tricks/flipstomp.gif){.align-right}
 
-The flip stomp is a way to start riding dating back at least 14 years! To do the flip stomp you start like with the normal stomp but let the skate do a full rotation before landing beneath your feet.
-
+The **Flip Stomp** is a classic mounting and styling trick dating back over a decade. Rather than simply stepping onto the deck, you initiate a controlled flip with the skate, landing your foot precisely onto it as it completes its rotation.
+## Variations
+Commmon variations of doing the flip stomp include doing it [switch](/basics/Stances) or letting the skate do multiple rotations in the air resulting in a double or more flipstomp
 ## Media
-- JMK published a [tutorial video](https://youtu.be/6t73GNw4G1g?si=mGyrAZvpVXQdHeWz) on the trick in 2020 showcasing different variations on the trick
-- Oldest variation we could find: [https://youtu.be/0-VxiYsQR1o?is=PUiu\_9qvF2P6PTlB](https://youtu.be/0-VxiYsQR1o?is=PUiu_9qvF2P6PTlB)
+- JMK published a [tutorial video](https://youtu.be/6t73GNw4G1g) on the trick in 2020 showcasing different variations on the trick
+- Oldest variation we could find: [https://youtu.be/0-VxiYsQR1o](https://youtu.be/0-VxiYsQR1o)
 
 ## Tips for learning
 

@@ -2,14 +2,14 @@
 title: JMK Freeskates
 description: 
 published: true
-date: 2026-09-29T19:52:44.043Z
+date: 2026-09-29T19:59:19.482Z
 tags: hardware
 editor: markdown
 dateCreated: 2026-07-18T19:22:46.517Z
 ---
 
 # JMK Freeskate Hardware
-![freeskate-variant-cottoncandy.png](/jmk/freeskate-variant-cottoncandy.png){.align-right}
+![freeskate-variant-cottoncandy-900w-downscale.webp](/jmk/freeskate-variant-cottoncandy-900w-downscale.webp){.align-right}
 The flagship [JMK Freeskate](https://usa.jmkride.com/products/jmkride-custom-freeskates) setup consists of two completely independent, unattached skates. Each individual skate is modular and constructed from a standard set of interchangeable components.
 
 ## Part Overview

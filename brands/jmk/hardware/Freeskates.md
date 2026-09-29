@@ -2,18 +2,14 @@
 title: JMK Freeskates
 description: 
 published: true
-date: 2026-07-21T01:14:19.273Z
+date: 2026-09-29T19:52:44.043Z
 tags: hardware
 editor: markdown
 dateCreated: 2026-07-18T19:22:46.517Z
 ---
 
 # JMK Freeskate Hardware
-<div class="infobox">
- 
- ![](/jmk/freeskate-variant-cottoncandy.png)
-</div>
-
+![freeskate-variant-cottoncandy.png](/jmk/freeskate-variant-cottoncandy.png){.align-right}
 The flagship [JMK Freeskate](https://usa.jmkride.com/products/jmkride-custom-freeskates) setup consists of two completely independent, unattached skates. Each individual skate is modular and constructed from a standard set of interchangeable components.
 
 ## Part Overview
@@ -38,6 +34,6 @@ Depending on the specific package or version purchased, riders can customize the
 
 ## Additional info
 
-**Self-Assembly:** Out of the box, JMK setups do not arrive pre-assembled. Riders receive the raw components and must assemble the skates themselves. This ensures that every skater understands the structural anatomy of their hardware from day one.
+**Self-Assembly:** Out of the box, [JMK](/brands/jmk-ride) setups do not arrive pre-assembled. Riders receive the raw components and must assemble the skates themselves. This ensures that every skater understands the structural anatomy of their hardware from day one.
 
 **Fully Modular Replacement:** Every single component of a JMK freeskate can be purchased individually as a standalone accessory or replacement part. This eliminates the need to buy a whole new set if a single piece wears out and makes custom hybrid setups easy to build.

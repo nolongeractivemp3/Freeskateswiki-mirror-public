@@ -1,8 +1,8 @@
 ---
 title: Ascot drifting-WIP
 description: 
-published: true
-date: 2026-09-03T19:59:39.915Z
+published: false
+date: 2026-09-29T20:07:13.401Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-03T19:59:13.680Z

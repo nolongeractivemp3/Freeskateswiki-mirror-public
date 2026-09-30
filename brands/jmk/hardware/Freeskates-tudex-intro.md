@@ -2,7 +2,7 @@
 title: Tudex Intro Freeskates
 description: JMK Approved Beginner Skates
 published: true
-date: 2026-09-29T20:25:38.809Z
+date: 2026-09-30T15:15:54.959Z
 tags: hardware
 editor: markdown
 dateCreated: 2026-07-20T20:24:06.721Z
@@ -11,7 +11,7 @@ dateCreated: 2026-07-20T20:24:06.721Z
   # Tudex Intro Freeskates
 ![freeskates-variant-tudex-intro-270w-downscale.net.webp](/jmk/freeskates-variant-tudex-intro-270w-downscale.net.webp){.align-right}
 
-The Tudex Intro Freeskates are an affordable alternative distributed through [JMKRIDE](/brands/jmk-ride). While they feature several cost-saving design compromises compared to flagship aluminum models, they offer a complete, ready-to-ride package straight out of the box.
+The [Tudex Intro Freeskates](/https://usa.jmkride.com/collections/jmkride-free-skates/products/tudex-intro-freeskate) are an affordable alternative distributed through [JMKRIDE](/brands/jmk-ride). While they feature several cost-saving design compromises compared to flagship aluminum models, they offer a complete, ready-to-ride package straight out of the box.
 ## Part overview
 ### Key Differences from Flagship Models
 - Wooden Decks: Built with wooden decks instead of aluminum.

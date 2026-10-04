@@ -2,7 +2,7 @@
 title: Tricks
 description: A short overview of freestyle tricks on freeskates 
 published: true
-date: 2026-09-22T18:22:15.246Z
+date: 2026-10-04T17:39:36.018Z
 tags: tricks
 editor: markdown
 dateCreated: 2026-07-18T13:21:20.455Z
@@ -29,5 +29,3 @@ Down below is a incomplete list of some of the tricks and guides/articles about 
 | NoGrab | [How to No Grab on Freeskates!](https://youtu.be/JHi6YRj90hA) |
 | Floater flip | [How to Floater Flip on Freeskates!](https://youtu.be/XRFO7U-7TVw) |
 | infinite spin | [How to infinite spin on Freeskates!](https://youtu.be/_x0L8muIOr0) |
-
-**AI was used to write some content on this page*

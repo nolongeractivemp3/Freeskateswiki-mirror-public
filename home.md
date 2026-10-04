@@ -2,7 +2,7 @@
 title: Freeskates Wiki
 description: The go-to place for Freeskating information!
 published: true
-date: 2026-08-21T17:34:42.557Z
+date: 2026-10-04T17:34:10.270Z
 tags: 
 editor: markdown
 dateCreated: 2026-07-17T20:27:30.245Z
@@ -15,7 +15,7 @@ Welcome! If you're looking for Freeskate Information, this is the place!
 ## About Freeskating
 Freeskating (historically known as Freeline skating) is a unique boardsport combining the fluid carving of snowboarding, the distinct footwork of inline skating, and the creative trick freedom of skateboarding.
 
-Unlike traditional skates, freeskates consist of two completely independent, unattached decks with two inline wheels each. There are no straps, no bindings, and no attachments—you simply step on, drive the momentum with a wave-like pumping motion, and ride.
+Unlike traditional skates, freeskates consist of two completely independent, unattached decks with two inline wheels each. There are no straps, no bindings, and no attachments—you simply step on, drive the momentum with a wave-like [pumping](/en/basics/Pumping) motion, and ride.
 
 ## Explore the Wiki
 [Trick Database](/tricks) – From foundational JMK tutorials to deep-lore legacy trick families.
@@ -30,7 +30,6 @@ Unlike traditional skates, freeskates consist of two completely independent, una
 
 Currently, the biggest online Freeskate groups are the [Freeskates Family Discord Server](https://discord.com/invite/rawKzP5YD2)(Which is Moderated by JMK Ride members), and the [r/freeskate subreddit](https://www.reddit.com/r/freeskate/) JMK Ride also has other socials, such as [Youtube](https://youtube.com/@jmkride), [Instagram](https://www.instagram.com/jmkride), Facebook, etc.
 
-**More Links Coming Soon!*
 
 ![freeskates_wiki_logo_wideborders.png](/freeskates_wiki_logo_wideborders.png) 
 

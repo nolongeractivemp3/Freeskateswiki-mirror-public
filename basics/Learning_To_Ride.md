@@ -2,7 +2,7 @@
 title: Learning To Ride
 description: The two most common Methods for learning how to ride Freeskates.
 published: true
-date: 2026-09-21T18:10:36.010Z
+date: 2026-10-04T10:22:41.275Z
 tags: 
 editor: markdown
 dateCreated: 2026-08-06T18:35:23.646Z
@@ -25,3 +25,4 @@ There are two primary methods for learning how to ride freeskates:
 ## Tips
 
 - **Learn Both Stances Early:** It is heavily recommended to practice in both [stances](/basics/Stances) from the start to build symmetrical muscle memory.
+- **Experiment** One of the fastest ways to improve at freeskating is experimenting a lot, not necessarily with the documented [standard tricks](/tricks) but with random challenges; this can help you quickly develop a better board feel

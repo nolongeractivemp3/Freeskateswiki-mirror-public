@@ -1,8 +1,8 @@
 ---
 title: Freeskates Wiki
-description: The go-to place for Freeskating information!
+description: Die erste Anlaufstelle für Informationen zum Freeskating!
 published: true
-date: 2026-10-04T17:34:08.894Z
+date: 2026-10-04T17:39:03.950Z
 tags: 
 editor: markdown
 dateCreated: 2026-10-04T17:34:08.894Z

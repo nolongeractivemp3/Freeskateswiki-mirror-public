@@ -2,7 +2,7 @@
 title: Sanxup
 description: Cheaper Chinese Alternative
 published: true
-date: 2026-09-28T15:22:23.478Z
+date: 2026-10-05T18:14:48.609Z
 tags: hardware, brand
 editor: markdown
 dateCreated: 2026-07-19T13:29:37.743Z
@@ -22,6 +22,7 @@ The following compatibility with [JMK Freeskates](/brands/jmk/hardware/Freeskate
 - Griptape: JMK griptape fits perfectly.
 - Edgeguards: JMK edgeguards fit perfectly.
 - Bearings: Incompatible. Sanxup uses standard skate bearings, whereas JMK uses custom integrated bearings
+- Trucks: While visually similar, Sanxup trucks lack the protective grind bars over the bolt heads found on JMK skates, leaving the hardware vulnerable to damage during side-truck grinds.
 ## Customization & Styling
 Sanxup offers a few different color schemes, including full blue, full black, and multi-color layouts. However, you **cannot** customize individual components to the same extent as [JMK](/brands/jmk-ride) Freeskates.
 

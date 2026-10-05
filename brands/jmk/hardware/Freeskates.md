@@ -2,7 +2,7 @@
 title: JMK Freeskates
 description: The flagship JMK skates
 published: true
-date: 2026-09-29T20:05:02.409Z
+date: 2026-10-05T18:18:50.479Z
 tags: hardware
 editor: markdown
 dateCreated: 2026-07-18T19:22:46.517Z
@@ -15,7 +15,7 @@ The flagship [JMK Freeskate](https://usa.jmkride.com/products/jmkride-custom-fre
 ## Part Overview
 Every skate is built using the following core parts:
 - Decks: The top platform where the rider's foot rests.
-- Trucks: The metal frame housing the wheels and anchoring them to the deck.
+- Trucks: The metal frame housing the wheels and anchoring them to the deck. Also features integrated grind bars that protect bolt heads and enable side grinds.
 - Wheels: Two wheels per skate, designed for carving and maintaining momentum. you can choose beetween [proformance and classic wheels](https://www.jmkride.com/post/jmkride-wheels-comparison)
 - [Custom Bearings](https://usa.jmkride.com/products/jmkride-bearings): Specialized custom bearings that cant simply be replaced by standard bearings.
 - Grip Tape: Applied to the deck surface to ensure secure, slip-resistant foot placement.
